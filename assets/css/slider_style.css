@@ -1,0 +1,40 @@
+﻿
+
+/* CLIENT CAROUSEL STYLES */
+.clients-carousel {
+    margin-top: 50px; /*SMALL TOP MARGIN FOR SPACE */
+    padding: 0 30px 30px 30px;
+}
+
+    .clients-carousel .thumbnail {
+        /*border: 1px solid #FF4D98;*/
+			
+		
+    }
+	
+    .clients-carousel .carousel-control.left {
+        height: 40px;
+        width: 60px;
+        margin-top: 20px;
+		font-size:60px;
+		color:#6f6f6f;
+		opacity:.3;
+		background-image:none;
+    }
+
+    .clients-carousel .carousel-control.right {
+        height: 40px;
+        width: 60px;
+        margin-top: 20px;
+		font-size:60px;
+		color:#6f6f6f;
+		opacity:.3;
+		background-image:none;
+		font-weight:100 !important;
+    }
+
+    .clients-carousel img {
+        border-radius: 90%;
+		height: 150px;
+		width: 150px;
+    }
